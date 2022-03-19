@@ -1,6 +1,6 @@
 # Instagram-Follower-List-Bot
 
-# En
+# EN
 
 Don't forget enter your username and password the source code before the using.  .
 
