@@ -14,8 +14,8 @@ profile = instaloader.Profile.from_username(guc.context, username)
 
 follow_list = []
 count = 0
-for followee in profile.get_followers():
-    follow_list.append(followee.username)
+for follomen in profile.get_followers():
+    follow_list.append(followmen.username)
     file = open("takipciler.txt", "a+")
     file.write(follow_list[count])
     file.write("\n")
