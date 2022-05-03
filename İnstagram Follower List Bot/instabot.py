@@ -24,5 +24,4 @@ for follomen in profile.get_followers():
     file.write(follow_list[count])
     file.write("\n")
     file.close()
-    print(follow_list[count])
     count = count + 1
