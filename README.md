@@ -1,6 +1,6 @@
 # Instagram-Follower-List-Bot
 
-# ANNOUNCMENT:
+# Announcement:
 TR:
 programda türkçe dil desteği artık olmayacak.
 
