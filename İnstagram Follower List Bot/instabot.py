@@ -1,6 +1,9 @@
 import instaloader
+from datetime import date
+
 
 guc = instaloader.Instaloader()
+today = date.today()
 
 
 username = "" # your username gonna be came here / Kullanici isminizi buraya giriceksiniz
@@ -15,7 +18,7 @@ follow_list = []
 count = 0
 for follomen in profile.get_followers():
     follow_list.append(follomen.username)
-    file = open("takipciler.txt", "a+")
+    file = open("followers.txt", "a+")
     file.write(follow_list[count])
     file.write("\n")
     file.close()
