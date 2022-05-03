@@ -1,5 +1,13 @@
 # Instagram-Follower-List-Bot
 
+# ANNOUNCMENT:
+TR:
+programda türkçe dil desteği artık olmayacak.
+
+EN:
+Program wont support turkish land anymore.
+
+
 # EN
 
 Don't forget enter your username and password the source code before the using.  .
@@ -10,14 +18,6 @@ Actually i made this project for myself but in the end i Thought like "i can sha
 I hope You Like it.
 
 
-# TR
-Kullanmadan Önce Kaynak Kodundan kullanıcı adı ve şifreyi girmeyi unutmayın
 
-
-
-
-Açıkçası bu projeyi kendim için yaptım fakat sonra dedimki bunu paylaşsam hiçte fena olmaz.
-
-Umarım beğenirsiniz.
 
 
