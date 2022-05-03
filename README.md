@@ -2,10 +2,11 @@
 
 # Announcement:
 TR:
-programda türkçe dil desteği artık olmayacak.
+Programda Türkçe dil desteği artık yer almayacak.
 
 EN:
-Program wont support turkish land anymore.
+This Application will not support Turkish language anymore.
+
 
 
 # EN
