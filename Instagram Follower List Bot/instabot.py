@@ -5,11 +5,10 @@ from datetime import date
 guc = instaloader.Instaloader()
 today = date.today()
 
-myusername = input("Enter your instagram Username : ")
-mypassword = input("Enter your instagram Password : ")
+username = input("Enter your instagram Username : ")
+password = input("Enter your instagram Password : ")
 
-username = myusername
-password = mypassword
+
 guc.login(username, password)
 
 
